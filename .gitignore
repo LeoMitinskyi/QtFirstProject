@@ -1,0 +1,16 @@
+*.o
+*.swp
+/.qmake.stash
+/.ycm_extra_conf.py
+/ermine
+/ermine_resource.rc
+/go
+/nsis/*.exe
+/object_script.ermine.Debug
+/object_script.ermine.Release
+/qrc_*.cpp
+/release/
+/translations/*.qm
+Makefile*
+moc_*.cpp
+moc_*.h
